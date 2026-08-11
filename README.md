@@ -66,7 +66,7 @@ The project used
 - Window function / advanced SQL
 
 ## Power BI Dashboard
-![E-commerce Analytics Power BI Dashboard](Ecommerce Power BI Dashboard .png)
+![E-commerce Analytics Power BI Dashboard](screenshot/EcommercePowerBIDashboard.png)
 The Power BI dashboard provides an interactive view of revenue, orders, customers, product categories, cities, payment methods and loyalty tiers.
 
 ## Business Questions
@@ -79,7 +79,7 @@ The Power BI dashboard provides an interactive view of revenue, orders, customer
 ## Key Insights
 1. High-value customers: The highest-value customer generated Rs 12,83,241 in revenue and belonged to the highest loyalty tier.
 2. Geographic performance: Delhi generated approximately Rs 9.5 crore in revenue, followed by Bengaluru at approximately Rs 9.2 crore.
-3. Payment behaviour: card was the most frequently used payment method with approximately 1,700 transactions, followed closely by CPD with 1,677.
+3. Payment behaviour: Card was the most frequently used payment method with approximately 1,700 transactions, followed closely by CPD with 1,677.
 4. Loyalty: Bronze customers generated approximately Rs 2.2 crore in revenue, followed by Silver customers at approximately Rs 1.2 crore.
 
 ## Recommendations
