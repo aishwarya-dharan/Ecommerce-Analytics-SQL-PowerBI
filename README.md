@@ -66,7 +66,7 @@ The project used
 - Window function / advanced SQL
 
 ## Power BI Dashboard
-![E-commerce Analytics Power BI Dashboard](screenshots/EcommmercePowerBIDashboard.png)
+![E-commerce Analytics Power BI Dashboard](Ecommerce Power BI Dashboard .png)
 The Power BI dashboard provides an interactive view of revenue, orders, customers, product categories, cities, payment methods and loyalty tiers.
 
 ## Business Questions
